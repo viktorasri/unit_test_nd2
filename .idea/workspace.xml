@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7ffef9-06ff-4763-bb2c-0c67c2d004b9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Service/NumberFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Service/NumberFormatterTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +17,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NumberFormatter.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NumberFormatter.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Service/NumberFormatter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+            <state relative-caret-position="365">
+              <caret line="23" column="58" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="58" />
               <folding>
                 <element signature="e#6#90#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberFormatterTest.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/Service/NumberFormatterTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding>
+                <element signature="e#39#71#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,6 +60,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/Service/NumberFormatter.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/tests/Service/NumberFormatterTest.php" />
       </list>
     </option>
   </component>
@@ -203,12 +216,12 @@
             <path>
               <item name="unit-prep" type="b2602c69:ProjectViewProjectNode" />
               <item name="unit-prep" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tests" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="unit-prep" type="b2602c69:ProjectViewProjectNode" />
               <item name="unit-prep" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tests" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Service" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -247,12 +260,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526928120364</updated>
       <workItem from="1526928123086" duration="19000" />
-      <workItem from="1527098002497" duration="2952000" />
+      <workItem from="1527098002497" duration="7461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2971000" />
+    <option name="totallyTimeSpent" value="7480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -265,7 +278,7 @@
       <window_info id="npm" order="2" sideWeight="0.50106156" side_tool="true" weight="0.18657719" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32905984" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49893844" visible="true" weight="0.18657719" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49893844" visible="true" weight="0.18657719" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -299,10 +312,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Service/NumberFormatter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        <state relative-caret-position="365">
+          <caret line="23" column="58" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="58" />
           <folding>
             <element signature="e#6#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Service/NumberFormatterTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="e#39#71#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
